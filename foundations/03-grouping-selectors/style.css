@@ -1,0 +1,14 @@
+.lie.true{
+    font-size: 28px;
+    font-family: helvetica, "times new roman", sans-serif;
+}
+
+.lie{
+    background-color: #1b57ff;
+    color: hsl(0, 0%, 100%)
+}
+
+.true{
+    background-color: #ecec4c;
+
+}
